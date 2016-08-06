@@ -1,0 +1,12 @@
+%{"bear": {:git, "git://github.com/boundary/bear.git", "119234548783af19b8ec75c879c5062676b92571", [tag: "0.8.2"]},
+  "edown": {:hex, :edown, "0.7.0", "6803599606b10f8e328d6d60c44cd16244cd2429908894c415fce4211c3bfefd", [:rebar, :rebar, :make], []},
+  "elixometer": {:git, "https://github.com/mootpointer/elixometer.git", "8c686767775ba073e737d220f2e3b286becf46fd", [branch: "updated_exometer"]},
+  "exometer_core": {:git, "https://github.com/Feuerlabs/exometer_core.git", "341410912dda0aa6f2e58dbe24edfe0702265418", []},
+  "folsom": {:git, "git://github.com/folsom-project/folsom", "38e2cce7c64ce1f0a3a918d90394cfc0a940b1ba", [ref: "38e2cce"]},
+  "goldrush": {:hex, :goldrush, "0.1.7", "349a351d17c71c2fdaa18a6c2697562abe136fec945f147b381f0cf313160228", [:rebar3], []},
+  "hut": {:git, "git://github.com/tolbrino/hut.git", "025540398478ab6f95932c3234382ac5bb21ad3e", [ref: "v1.1.1"]},
+  "lager": {:hex, :lager, "3.0.2", "25dc81bc3659b62f5ab9bd073e97ddd894fc4c242019fccef96f3889d7366c97", [:rebar3], [{:goldrush, "0.1.7", [hex: :goldrush, optional: false]}]},
+  "meck": {:hex, :meck, "0.8.4", "59ca1cd971372aa223138efcf9b29475bde299e1953046a0c727184790ab1520", [:rebar, :make], []},
+  "parse_trans": {:git, "git://github.com/uwiger/parse_trans.git", "a210adafdfbb904d156d8f22abd5fb58fc17de1e", [tag: "2.9.2"]},
+  "pobox": {:hex, :pobox, "1.0.2", "45a5bc91e3cf20f9bc0b94494f00fcdccbc333ab2e0856972b7f0f196fc41613", [:rebar3], []},
+  "setup": {:git, "git://github.com/uwiger/setup.git", "5c7d635145e5ffb8b0fa6b470770cdd1cb16b0b2", [tag: "1.6"]}}
